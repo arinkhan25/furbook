@@ -8,17 +8,17 @@ function Descriptions() {
         <div className = 'col'>
           <h5 className = 'title-text'>Real Cats</h5>
           <p className = 'sub-text'>
-            Contrary to popular belief, cats aren't loners. At furbook, we know cats need friendship, affection, and comradery. It is 						  our core belief that beneath every cat's hard, angry, exterior there is a pet who jus wants to play and cuddle with a						        friend</p>
+            Cats have been domesticated (tamed) for nearly 10,000 years. They are one of the most popular pets in the world.</p>
         </div>
         <div className = 'col'>
           <h5 className = 'title-text'>Real Dogs</h5>
           <p className = 'sub-text'>
-            Dogs are man's best friend. But dogs can also be dog's best friend. Maybe even bester than man's best friend. On furbook, 					      you can find millions of other dogs who can be a loyal companion, trusted confidant, and reliable wrestling partner</p>
+            Dogs are man's best friend. Although dogs look very different from people, they share many of our body’s characteristics.</p>
         </div>
         <div className = 'col'>
           <h5 className = 'title-text'>Real Friends</h5>
           <p className = 'sub-text'>s
-            Who says cats and dogs can't get along? Here at Furbook, we believe all pets can be best friends. Our furbook users 					         believe it doesn't matter if you are a cat, dog, rabbit, or ferret; underneath that fur we are all cute, wonderful pets.					 </p>
+           Cats and dogs are commonly seen as rivals but they can easily get along, and even be the bestest friends! </p>
          </div>
       </div>
     </div>
